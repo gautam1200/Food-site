@@ -87,30 +87,43 @@ const Menu = () => {
           <div className="burger-menu">
             <div className="burger-item">
               <img src={burger_01} alt="Crispy Chicken" />
+              <div>
+
               <h3>Crispy Chicken</h3>
               <p>$8.95</p>
               Fried chicken breast, chilli sauce, tomatoes, pickles, coleslaw
+              </div>
               <button>Add to Cart</button>
             </div>
             <div className="burger-item minus-item1">
               <img src={burger_02} alt="Ultimate Bacon " />
+              <div>
+
               <h3>Ultimate Bacon</h3>
               <p>$9.99</p>
               Fried chicken breast, chilli sauce, tomatoes, pickles, coleslaw
+              </div>
+
               <button>Add to Cart</button>
             </div>
             <div className="burger-item minus-item">
               <img src={burger_03} alt="Smokey House" />
+              <div>
+
               <h3>Smokey House</h3>
               <p>$7.99</p>
               Fried chicken breast, chilli sauce, tomatoes, pickles, coleslaw
+              </div>
+
               <button>Add to Cart</button>
             </div>
             <div className="burger-item minus-item">
               <img src={burger_04} alt="Turkey Burger" />
+              <div>
               <h3>Turkey Burger</h3>
               <p>$8.30</p>
               Fried chicken breast, chilli sauce, tomatoes, pickles, coleslaw
+              </div>
               <button>Add to Cart</button>
             </div>
           </div>
@@ -121,30 +134,39 @@ const Menu = () => {
           <div className="salads-menu">
             <div className="salads-item">
               <img src={salad_01} alt="Greek Salad" />
+              <div>
+
               <h3>Greek Salad</h3>
               <p>$8.95</p>
               Chicken breast, chilli sauce, lime juice, lettuce leaves, cucumber
+              </div>
               <button>Add to Cart</button>
             </div>
             <div className="salads-item">
               <img src={salad_02} alt="Chicken Salad" />
+              <div>
               <h3>Chicken Salad</h3>
               <p>$9.99</p>
               Chicken breast, chilli sauce, lime juice, lettuce leaves, cucumber
+              </div>
               <button>Add to Cart</button>
             </div>
             <div className="salads-item minus-item">
               <img src={salad_03} alt="Spinach Salad" />
+              <div>
               <h3>Spinach Salad</h3>
               <p>$7.99</p>
               Chicken breast, chilli sauce, lime juice, lettuce leaves, cucumber
+              </div>
               <button>Add to Cart</button>
             </div>
             <div className="salads-item minus-item">
               <img src={salad_04} alt="Turkey Salad" />
+              <div>
               <h3>Turkey Salad</h3>
               <p>$8.30</p>
               Chicken breast, chilli sauce, lime juice, lettuce leaves, cucumber
+              </div>
               <button>Add to Cart</button>
             </div>
           </div>
@@ -155,30 +177,38 @@ const Menu = () => {
           <div className="fries-menu">
             <div className="fries-item">
               <img src={side_01} alt="Onion Rings" />
+              <div>
               <h3>Onion Rings</h3>
               <p>$8.95</p>
               Integer ultrice an aliquam lectus purus magna and tempor
+              </div>
               <button>Add to Cart</button>
             </div>
             <div className="fries-item">
               <img src={side_02} alt="French Fries" />
+              <div>
               <h3>French Fries</h3>
               <p>$9.99</p>
               Integer ultrice an aliquam lectus purus magna and tempor
+              </div>
               <button>Add to Cart</button>
             </div>
             <div className="fries-item minus-item" >
               <img src={side_03} alt="Mozzarella Sticks" />
+              <div>
               <h3>Mozzarella Sticks</h3>
               <p>$7.99</p>
               Integer ultrice an aliquam lectus purus magna and tempor
+              </div>
               <button>Add to Cart</button>
             </div>
             <div className="fries-item minus-item">
               <img src={side_04} alt="Chicken Nuggets" />
+              <div>
               <h3>Chicken Nuggets</h3>
               <p>$8.30</p>
               Integer ultrice an aliquam lectus purus magna and tempor
+              </div>
               <button>Add to Cart</button>
             </div>
           </div>
@@ -189,30 +219,38 @@ const Menu = () => {
           <div className="desserts-menu">
             <div className="desserts-item">
               <img src={dessert_01} alt="Strawberry Cake" />
+              <div>
               <h3>Strawberry Cake</h3>
               <p>$8.95</p>
               Strawberry, double cream, icing sugar, soft cheese, biscuits
+              </div>
               <button>Add to Cart</button>
             </div>
             <div className="desserts-item">
               <img src={dessert_02} alt="Belgian Waffle" />
+              <div>
               <h3>Belgian Waffle</h3>
               <p>$9.99</p>
               Strawberry, double cream, icing sugar, soft cheese, biscuits
+              </div>
               <button>Add to Cart</button>
             </div>
             <div className="desserts-item minus-item">
               <img src={dessert_03} alt="Cheesecake" />
+              <div>
               <h3>Cheesecake</h3>
               <p>$7.99</p>
               Strawberry, double cream, icing sugar, soft cheese, biscuits
+              </div>
               <button>Add to Cart</button>
             </div>
             <div className="desserts-item minus-item">
               <img src={dessert_04} alt="Chocolate Cake" />
+              <div>
               <h3>Chocolate Cake</h3>
               <p>$8.30</p>
               Strawberry, double cream, icing sugar, soft cheese, biscuits
+              </div>
               <button>Add to Cart</button>
             </div>
           </div>
